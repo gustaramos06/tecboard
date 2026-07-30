@@ -70,7 +70,11 @@ a{
     margin: 40px auto 0;
 }
 a:hover{
-    background-color: #8233E8;
+    color: #0c0c0c;
+    background-color: #33d3e8;
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+    border-radius: 20px;
 }
 
 section img{
